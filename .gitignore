@@ -1,3 +1,9 @@
+# Project
+esm/
+lib/
+umd/
+
+# GitHub .gitignore for Node
 # Logs
 logs
 *.log
